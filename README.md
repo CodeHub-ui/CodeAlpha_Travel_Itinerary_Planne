@@ -73,7 +73,16 @@ Menu:
 4. Exit
 Choose an option: 3
 Total Budget for All Itineraries: $1500.0
+
+Menu:
+1. Add Itinerary
+2. View Itineraries
+3. Calculate Total Budget
+4. Exit
+Choose an option: 4
+Thank you for using the Travel Itinerary Planner. Goodbye!
 ```
+
 
 ## File Structure
 - `StudentGradeTracker.java`: The main program file.
