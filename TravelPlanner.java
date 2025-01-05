@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.Scanner;
-
+import java.util.*;
 // Class to represent a travel itinerary
 class TravelItinerary {
     private String destination;
