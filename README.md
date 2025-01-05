@@ -65,6 +65,14 @@ Destination: Paris
 Start Date: 2025-03-15
 End Date: 2025-03-22
 Budget: $1500
+
+Menu:
+1. Add Itinerary
+2. View Itineraries
+3. Calculate Total Budget
+4. Exit
+Choose an option: 3
+Total Budget for All Itineraries: $1500.0
 ```
 
 ## File Structure
